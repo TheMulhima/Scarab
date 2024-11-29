@@ -154,7 +154,7 @@
     <value>Attenzione!</value>
   </data>
   <data name="MWVM_Impl_Error_Fetch_ModLinks_Error" xml:space="preserve">
-    <value>errore HTTP {0}</value>
+    <value>fallito con errore HTTP {0}</value>
   </data>
   <data name="MWVM_Impl_Error_Fetch_ModLinks_Msgbox_Text" xml:space="preserve">
     <value>Impossibile scaricare la lista delle mod dal modlink: {0}</value>
@@ -241,7 +241,7 @@
     <value>Etichette:</value>
   </data>
   <data name="XAML_On" xml:space="preserve">
-    <value>Attivo</value>
+    <value>On</value>
   </data>
   <data name="XAML_Off" xml:space="preserve">
     <value>Off</value>
@@ -733,6 +733,6 @@
     <value>Usa un mirror di GitHub</value>
   </data>
   <data name="XAML_Modlog" xml:space="preserve">
-    <value>Open ModLog.txt</value>
+    <value>Apri ModLog.txt</value>
   </data>
 </root>
